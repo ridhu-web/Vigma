@@ -23,9 +23,7 @@ This guide provides detailed steps to install and set up the VIGMA system, inclu
 
 ## Project Setup
 
-Download a zipped version of VIGMA from [here](https://github.com/ridhu-web/Vigma). Check the image below for reference on how to download the zip file from the link.
-
-<img src="download.png" width="800">
+Download a zipped version of VIGMA from [here](https://github.com/ridhu-web/Vigma) by clicking Code button in green color --> Download Zip . 
 
 Unzip the folder. Now, open a terminal inside the **VIGMA** folder.
 
