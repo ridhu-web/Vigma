@@ -1,7 +1,7 @@
 <TODO- Intro. Add image of the system.>
 
 # VIGMA: The Visual Gait and Motion Analytics Framework
-This project, VIGMA, is designed to visualize and analyze gait data, providing a comprehensive tool for understanding mobility and balance in various patient populations. VIGMA integrates data processing, analysis, and visualization within a user-friendly framework, making it accessible to researchers, clinicians, and practitioners. The system supports the exploration of disease progression, comparisons across multiple patient groups, and offers advanced visual analytics capabilities. Our goal is to facilitate deeper insights into gait disorders and aid in the development of tailored treatment plans and rehabilitation strategies. VIGMA is open-source and available for use and contribution at [github.com/komar41/VIGMA](https://github.com/komar41/VIGMA).
+This project, VIGMA, is designed to visualize and analyze gait data, providing a comprehensive tool for understanding mobility and balance in various patient populations. VIGMA integrates data processing, analysis, and visualization within a user-friendly framework, making it accessible to researchers, clinicians, and practitioners. The system supports the exploration of disease progression, comparisons across multiple patient groups, and offers advanced visual analytics capabilities. Our goal is to facilitate deeper insights into gait disorders and aid in the development of tailored treatment plans and rehabilitation strategies.
 
 ![image](teaser.png)
 
@@ -23,7 +23,7 @@ This guide provides detailed steps to install and set up the VIGMA system, inclu
 
 ## Project Setup
 
-Download a zipped version of VIGMA from [here](https://github.com/komar41/vigma). Check the image below for reference on how to download the zip file from the link.
+Download a zipped version of VIGMA from [here](https://github.com/ridhu-web/Vigma). Check the image below for reference on how to download the zip file from the link.
 
 <img src="download.png" width="800">
 
@@ -112,5 +112,5 @@ Unzip the folder. Now, open a terminal inside the **VIGMA** folder.
 
 ## Use the Python API
 
-Follow this [link](https://github.com/komar41/vigma/blob/main/notebooks/README.md) to learn how to use the **VIGMA** python API. 
+Follow this [link](https://github.com/ridhu-web/Vigma/blob/main/notebooks/README.md) to learn how to use the **VIGMA** python API. 
 <!-- You can also watch this short [video tutorial]() to learn the usage of the Python API. -->
