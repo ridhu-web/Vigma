@@ -14,7 +14,7 @@ We have provided some mock data to let the users test the utilities of the libra
 
 <img src="data-storage.png" width="400">
 
-You can also check out this [notebook](https://github.com/komar41/vigma/blob/main/notebooks/tutorial.ipynb) that illustrates how to use all functionalities of **VIGMA** Python API.
+You can also check out this [notebook](https://github.com/ridhu-web/Vigma/blob/main/notebooks/tutorial.ipynb) that illustrates how to use all functionalities of **VIGMA** Python API.
 
 <a name="format-harmonization"></a>
 
